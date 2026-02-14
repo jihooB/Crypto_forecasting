@@ -1,3 +1,5 @@
+Comparative Analysis and Forecasting of Clean vs. Dirty Cryptocurrencies
+
 This project investigates the financial behavior and predictability of two categories of digital assets: Clean and Dirty Cryptocurrencies. 
 "Clean" cryptos are identified by their energy-efficient consensus algorithms (like Proof of Stake), while "Dirty" cryptos (such as Bitcoin) require significant energy consumption for mining and transactions.
 
